@@ -52,5 +52,4 @@ Allow: /
 
 # Microsoft Copilot usa el índice de Bing (Bingbot)
 
-# EDITAR: dominio definitivo
-Sitemap: https://gtcco.mx/sitemap.xml
+Sitemap: https://www.gtcco.mx/sitemap.xml

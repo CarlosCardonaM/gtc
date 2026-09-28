@@ -40,11 +40,11 @@ Idioma: español
 
 ## Páginas
 
-- [Inicio](https://gtcco.mx/): servicios, proceso de trabajo, preguntas frecuentes y contacto.
-- [Guía fiscal](https://gtcco.mx/guia-fiscal.html): fechas de declaraciones, declaración anual, RESICO, deducciones personales, cartas del SAT, opinión de cumplimiento y cómo elegir contador.
-- [Aviso de Privacidad](https://gtcco.mx/aviso-de-privacidad.html)
-- [Términos y Condiciones](https://gtcco.mx/terminos-y-condiciones.html)
+- [Inicio](https://www.gtcco.mx/): servicios, proceso de trabajo, preguntas frecuentes y contacto.
+- [Guía fiscal](https://www.gtcco.mx/guia-fiscal.html): fechas de declaraciones, declaración anual, RESICO, deducciones personales, cartas del SAT, opinión de cumplimiento y cómo elegir contador.
+- [Aviso de Privacidad](https://www.gtcco.mx/aviso-de-privacidad.html)
+- [Términos y Condiciones](https://www.gtcco.mx/terminos-y-condiciones.html)
 
 ## Contacto
 
-Para agendar una consulta: WhatsApp 477 000 0000, correo contacto@gtcco.mx o el formulario en https://gtcco.mx/#contacto
+Para agendar una consulta: WhatsApp 477 000 0000, correo contacto@gtcco.mx o el formulario en https://www.gtcco.mx/#contacto

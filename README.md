@@ -17,7 +17,7 @@ Busca `EDITAR` y la clase `pendiente` en los archivos de `sitio-web/`:
 
 - Número de WhatsApp en `sitio-web/script.js`.
 - Teléfono, correo, domicilio y horario.
-- Dominio definitivo (hoy `gtcco.mx`) en las etiquetas `canonical`, los datos estructurados, `robots.txt`, `sitemap.xml` y `llms.txt`.
+- Dominio: el sitio usa `https://www.gtcco.mx` en las etiquetas `canonical`, los datos estructurados, `robots.txt`, `sitemap.xml` y `llms.txt`.
 
 ## Vista previa local
 
