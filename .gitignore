@@ -1,0 +1,11 @@
+# Datos fiscales del cliente (facturas CFDI): nunca subir
+Logotipo/*.txt
+*.xml.txt
+
+# Duplicados comprimidos de las carpetas de logotipos
+Logotipo/*.zip
+
+# Archivos del sistema y locales
+.DS_Store
+Thumbs.db
+.claude/
